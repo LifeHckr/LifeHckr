@@ -1,8 +1,6 @@
 ### Jarod Spangler
 
-I'm a Senior at the University of California, Santa Cruz expecting to graduate in June 2025, studying Computer Science: Computer Game Design.
-
-I'm a programmer with most of my experience being in C# and Javascript. I primarily focus on game design and procedural generation. Most of my time is spent in Godot.
+A programmer experienced with C# and Javascript. I primarily focus on game design and procedural generation. Most of my time is spent in Godot.
 
 I am the producer and lead programmer of [Midnight Riff](https://github.com/Project-Funk-Engine/ProjectFunkEngine)
 
